@@ -3,10 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
+- <b>Wazuh (IDS) </b>
+  - [Wazuh (IDS)](https://github.com/sebastienwebdev/Wazuh)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/sebastienwebdev/AzureSentinel)
   - [Active Directory Bulk User Creation](https://github.com/sebastienwebdev/ActiveDirectory)
