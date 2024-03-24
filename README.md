@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Wazuh (IDS) </b>
+- <b>Wazuh Intrusion Detection System </b>
   - [Wazuh (IDS)](https://github.com/sebastienwebdev/Wazuh)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/sebastienwebdev/AzureSentinel)
